@@ -1,0 +1,343 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		89141792173CC77B009BA9AB /* Unknown のコピー .jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89141791173CC77B009BA9AB /* Unknown のコピー .jpg */; };
+		8917471A1733BDDF0009D0DA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 891747191733BDDF0009D0DA /* UIKit.framework */; };
+		8917471C1733BDDF0009D0DA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8917471B1733BDDF0009D0DA /* Foundation.framework */; };
+		8917471E1733BDDF0009D0DA /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8917471D1733BDDF0009D0DA /* CoreGraphics.framework */; };
+		891747241733BDDF0009D0DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 891747221733BDDF0009D0DA /* InfoPlist.strings */; };
+		891747261733BDDF0009D0DA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 891747251733BDDF0009D0DA /* main.m */; };
+		8917472A1733BDE00009D0DA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 891747291733BDE00009D0DA /* AppDelegate.m */; };
+		8917472C1733BDE00009D0DA /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 8917472B1733BDE00009D0DA /* Default.png */; };
+		8917472E1733BDE00009D0DA /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8917472D1733BDE00009D0DA /* Default@2x.png */; };
+		891747301733BDE00009D0DA /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8917472F1733BDE00009D0DA /* Default-568h@2x.png */; };
+		891747331733BDE00009D0DA /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 891747311733BDE00009D0DA /* MainStoryboard.storyboard */; };
+		891747361733BDE00009D0DA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 891747351733BDE00009D0DA /* ViewController.m */; };
+		8917473D1733BDEF0009D0DA /* Unknown のコピー .jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8917473C1733BDEF0009D0DA /* Unknown のコピー .jpg */; };
+		8917473F1733BE020009D0DA /* bu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8917473E1733BE020009D0DA /* bu.mp3 */; };
+		891747411733BE330009D0DA /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 891747401733BE330009D0DA /* AVFoundation.framework */; };
+		891747441733BF9D0009D0DA /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 891747431733BF9D0009D0DA /* GameViewController.m */; };
+		891747461734084D0009D0DA /* l_107.png in Resources */ = {isa = PBXBuildFile; fileRef = 891747451734084D0009D0DA /* l_107.png */; };
+		89ECC1A01750DF2000BD5922 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89ECC19F1750DF2000BD5922 /* GameKit.framework */; };
+		89ECC1A81750E91500BD5922 /* CommunicationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 89ECC1A71750E91500BD5922 /* CommunicationViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		89141791173CC77B009BA9AB /* Unknown のコピー .jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown のコピー .jpg"; sourceTree = "<group>"; };
+		891747161733BDDF0009D0DA /* Bokusing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bokusing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		891747191733BDDF0009D0DA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8917471B1733BDDF0009D0DA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8917471D1733BDDF0009D0DA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		891747211733BDDF0009D0DA /* Bokusing-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Bokusing-Info.plist"; sourceTree = "<group>"; };
+		891747251733BDDF0009D0DA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		891747271733BDDF0009D0DA /* Bokusing-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Bokusing-Prefix.pch"; sourceTree = "<group>"; };
+		891747281733BDE00009D0DA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		891747291733BDE00009D0DA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8917472B1733BDE00009D0DA /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		8917472D1733BDE00009D0DA /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		8917472F1733BDE00009D0DA /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		891747341733BDE00009D0DA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		891747351733BDE00009D0DA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		8917473C1733BDEF0009D0DA /* Unknown のコピー .jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown のコピー .jpg"; sourceTree = "<group>"; };
+		8917473E1733BE020009D0DA /* bu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bu.mp3; sourceTree = "<group>"; };
+		891747401733BE330009D0DA /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		891747421733BF9D0009D0DA /* GameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
+		891747431733BF9D0009D0DA /* GameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
+		891747451734084D0009D0DA /* l_107.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = l_107.png; sourceTree = "<group>"; };
+		89ECC19F1750DF2000BD5922 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		89ECC1A41750E46800BD5922 /* ja */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = ja; path = ja.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		89ECC1A51750E46800BD5922 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		89ECC1A61750E91500BD5922 /* CommunicationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommunicationViewController.h; sourceTree = "<group>"; };
+		89ECC1A71750E91500BD5922 /* CommunicationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommunicationViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		891747131733BDDF0009D0DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				89ECC1A01750DF2000BD5922 /* GameKit.framework in Frameworks */,
+				891747411733BE330009D0DA /* AVFoundation.framework in Frameworks */,
+				8917471A1733BDDF0009D0DA /* UIKit.framework in Frameworks */,
+				8917471C1733BDDF0009D0DA /* Foundation.framework in Frameworks */,
+				8917471E1733BDDF0009D0DA /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8917470D1733BDDF0009D0DA = {
+			isa = PBXGroup;
+			children = (
+				89ECC19F1750DF2000BD5922 /* GameKit.framework */,
+				891747451734084D0009D0DA /* l_107.png */,
+				891747401733BE330009D0DA /* AVFoundation.framework */,
+				8917471F1733BDDF0009D0DA /* Bokusing */,
+				891747181733BDDF0009D0DA /* Frameworks */,
+				891747171733BDDF0009D0DA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		891747171733BDDF0009D0DA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				891747161733BDDF0009D0DA /* Bokusing.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		891747181733BDDF0009D0DA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				891747191733BDDF0009D0DA /* UIKit.framework */,
+				8917471B1733BDDF0009D0DA /* Foundation.framework */,
+				8917471D1733BDDF0009D0DA /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8917471F1733BDDF0009D0DA /* Bokusing */ = {
+			isa = PBXGroup;
+			children = (
+				891747281733BDE00009D0DA /* AppDelegate.h */,
+				891747291733BDE00009D0DA /* AppDelegate.m */,
+				891747311733BDE00009D0DA /* MainStoryboard.storyboard */,
+				891747341733BDE00009D0DA /* ViewController.h */,
+				891747351733BDE00009D0DA /* ViewController.m */,
+				891747421733BF9D0009D0DA /* GameViewController.h */,
+				891747431733BF9D0009D0DA /* GameViewController.m */,
+				89ECC1A61750E91500BD5922 /* CommunicationViewController.h */,
+				89ECC1A71750E91500BD5922 /* CommunicationViewController.m */,
+				8917473C1733BDEF0009D0DA /* Unknown のコピー .jpg */,
+				89141791173CC77B009BA9AB /* Unknown のコピー .jpg */,
+				8917473E1733BE020009D0DA /* bu.mp3 */,
+				891747201733BDDF0009D0DA /* Supporting Files */,
+			);
+			path = Bokusing;
+			sourceTree = "<group>";
+		};
+		891747201733BDDF0009D0DA /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				891747211733BDDF0009D0DA /* Bokusing-Info.plist */,
+				891747221733BDDF0009D0DA /* InfoPlist.strings */,
+				891747251733BDDF0009D0DA /* main.m */,
+				891747271733BDDF0009D0DA /* Bokusing-Prefix.pch */,
+				8917472B1733BDE00009D0DA /* Default.png */,
+				8917472D1733BDE00009D0DA /* Default@2x.png */,
+				8917472F1733BDE00009D0DA /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		891747151733BDDF0009D0DA /* Bokusing */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 891747391733BDE00009D0DA /* Build configuration list for PBXNativeTarget "Bokusing" */;
+			buildPhases = (
+				891747121733BDDF0009D0DA /* Sources */,
+				891747131733BDDF0009D0DA /* Frameworks */,
+				891747141733BDDF0009D0DA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Bokusing;
+			productName = Bokusing;
+			productReference = 891747161733BDDF0009D0DA /* Bokusing.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8917470E1733BDDF0009D0DA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "竹林 英雄";
+			};
+			buildConfigurationList = 891747111733BDDF0009D0DA /* Build configuration list for PBXProject "Bokusing" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				ja,
+			);
+			mainGroup = 8917470D1733BDDF0009D0DA;
+			productRefGroup = 891747171733BDDF0009D0DA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				891747151733BDDF0009D0DA /* Bokusing */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		891747141733BDDF0009D0DA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				891747241733BDDF0009D0DA /* InfoPlist.strings in Resources */,
+				8917472C1733BDE00009D0DA /* Default.png in Resources */,
+				8917472E1733BDE00009D0DA /* Default@2x.png in Resources */,
+				891747301733BDE00009D0DA /* Default-568h@2x.png in Resources */,
+				891747331733BDE00009D0DA /* MainStoryboard.storyboard in Resources */,
+				8917473D1733BDEF0009D0DA /* Unknown のコピー .jpg in Resources */,
+				8917473F1733BE020009D0DA /* bu.mp3 in Resources */,
+				891747461734084D0009D0DA /* l_107.png in Resources */,
+				89141792173CC77B009BA9AB /* Unknown のコピー .jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		891747121733BDDF0009D0DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				891747261733BDDF0009D0DA /* main.m in Sources */,
+				8917472A1733BDE00009D0DA /* AppDelegate.m in Sources */,
+				891747361733BDE00009D0DA /* ViewController.m in Sources */,
+				891747441733BF9D0009D0DA /* GameViewController.m in Sources */,
+				89ECC1A81750E91500BD5922 /* CommunicationViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		891747221733BDDF0009D0DA /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				89ECC1A51750E46800BD5922 /* ja */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		891747311733BDE00009D0DA /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				89ECC1A41750E46800BD5922 /* ja */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		891747371733BDE00009D0DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		891747381733BDE00009D0DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8917473A1733BDE00009D0DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Bokusing/Bokusing-Prefix.pch";
+				INFOPLIST_FILE = "Bokusing/Bokusing-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8917473B1733BDE00009D0DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Bokusing/Bokusing-Prefix.pch";
+				INFOPLIST_FILE = "Bokusing/Bokusing-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		891747111733BDDF0009D0DA /* Build configuration list for PBXProject "Bokusing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				891747371733BDE00009D0DA /* Debug */,
+				891747381733BDE00009D0DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		891747391733BDE00009D0DA /* Build configuration list for PBXNativeTarget "Bokusing" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8917473A1733BDE00009D0DA /* Debug */,
+				8917473B1733BDE00009D0DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8917470E1733BDDF0009D0DA /* Project object */;
+}
